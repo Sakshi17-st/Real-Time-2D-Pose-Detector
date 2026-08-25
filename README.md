@@ -10,7 +10,7 @@ This repository serves The objective is to efficiently bridge real-time video ca
 
 Clone the Repository:
 
-**git clone** [https://github.com/riteshgursal/Real-Time-2D-Pose-Detector-POC.git]
+**git clone** [https://github.com/Sakshi17-st/Real-Time-2D-Pose-Detector-POC.git]
 cd 3d-pose-poc
 
 
